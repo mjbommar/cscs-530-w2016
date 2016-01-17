@@ -43,7 +43,7 @@
     * During the war, analysts relied on millions of computations to manage war efforts and develop new weapons
 	* The majority of these computations were performed by Computers - armies of humans, typically female, who were organic arithmetic engines
 	* However, a new kind of computer - less organic - was entering the picture.
-  * In arguably the greatest confluence of genius our species has experienced, the Manhattan Project and subsequent nuclear weapon projects together figures like Stan Ulam and John von Neumann.
+  * In arguably the greatest confluence of genius our species has experienced, the Manhattan Project and subsequent nuclear weapon projects bring together figures like Stan Ulam and John von Neumann.
     * The group had been attacking a number of problems around neutron multiplication in fission weapons.  However, the resulting differential equations and integrals were intractable.
 	* Ulam, sick in bed playing solitaire, however, has an idea - instead of calculating probabilities of hands using combinatorics, what about averaging hundreds of plays?
 	* Realizing the applications to integration and many problems in mathematical physics, he communicates the idea to von Neumann.
