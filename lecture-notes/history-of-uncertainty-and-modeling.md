@@ -47,7 +47,7 @@
     * The group had been attacking a number of problems around neutron multiplication in fission weapons.  However, the resulting differential equations and integrals were intractable.
 	* Ulam, sick in bed playing solitaire, however, has an idea - instead of calculating probabilities of hands using combinatorics, what about averaging hundreds of plays?
 	* Realizing the applications to integration and many problems in mathematical physics, he communicates the idea to von Neumann.
-	* von history and Ulam, both deeply interested in the recent development of digitaldecide s long beforeapply their idea t,  but we'll start here.neutron diffusion on the brand new ENIAC computer.
+	* von Neumann and Ulam, both deeply interested in the recent development of digital computing, decide to attack the neutron diffusion problem on the brand new ENIAC computer.
 	* The rest is history - for ENIAC, Monte Carlo, and the hydrogen bomb.
   * However, Monte Carlo needs more than just digital computing; it also needs "random" numbers
     * Our human Computer war heros had a source - printed tables, often derived from real gambling devices like roulette wheels
