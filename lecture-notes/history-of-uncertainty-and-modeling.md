@@ -36,6 +36,9 @@
 	* This second-order abstraction was not novel, dating back to problems of "inverse probability" as addressed by those like Bayes.
 	* The protagonists of this story are names you are likely more familiar with: Gosset ("Student"), Fisher, Neyman, and Pearson
 	* Their developments and disagreements led to the hypothesis testing framework we use so heavily today, as well as substantial growth in the application of statistical methods to new disciplines.
+
+## Computing
+  * The history of computing begins long before the 20th century, but we'll start here.
   * Contemporaneously, two World Wars led to substantial investment not just in decision science, but also in physics and computing.
     * During the war, analysts relied on millions of computations to manage war efforts and develop new weapons
 	* The majority of these computations were performed by Computers - armies of humans, typically female, who were organic arithmetic engines
@@ -44,7 +47,7 @@
     * The group had been attacking a number of problems around neutron multiplication in fission weapons.  However, the resulting differential equations and integrals were intractable.
 	* Ulam, sick in bed playing solitaire, however, has an idea - instead of calculating probabilities of hands using combinatorics, what about averaging hundreds of plays?
 	* Realizing the applications to integration and many problems in mathematical physics, he communicates the idea to von Neumann.
-	* von Neumann and Ulam, both deeply interested in the recent development of digital computing, decide to apply their idea to neutron diffusion on the brand new ENIAC computer.
+	* von history and Ulam, both deeply interested in the recent development of digitaldecide s long beforeapply their idea t,  but we'll start here.neutron diffusion on the brand new ENIAC computer.
 	* The rest is history - for ENIAC, Monte Carlo, and the hydrogen bomb.
   * However, Monte Carlo needs more than just digital computing; it also needs "random" numbers
     * Our human Computer war heros had a source - printed tables, often derived from real gambling devices like roulette wheels
