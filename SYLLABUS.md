@@ -41,3 +41,26 @@ Grading will be based primarily on a research project (80%); for masters and Ph.
 | 4/20/2016 |                                                                                                                                                                          |                                        |                         |                                                                                                     | Notebook Check #3 (10%) |                          |
 | 4/22/2016 |                                                                                                                                                                          |                                        |                         |                                                                                                     |                         |                          |
 | 4/27/2016 |                                                                                                                                                                          |                                        |                         |                                                                                                     |                         | Final Assessment (40%)   |
+
+
+## Midterm Rubric
+ * Markdown comments at the top of your notebook (10%)
+   * State the problem or question you are addressing in a single sentence.
+   * Identify why the problem that you are attempting to answer is amenable to an ABM, Networks, or other computational approach.
+   * Outline, at a high level, how you will use your model to evaluate your question and the various pieces of your model.  Identify a mechanism or process, how you will perform an experiment with its parameters, and what you will measure.
+ * Code Notebook (80%)
+   * Brief overview of your model (10%)
+     * Outline what your model is meant to do and how it will answer your question
+   * Code Notebook (70%)
+     * List of the sweep parameters that are important to answering your question in the model and the processes / mechanisms that they are involved in. List of the outcome measures that your parameter sweeps are going to affect (10%)
+     * Initialization of your parameters and variables (10%)
+     * Definition of all classes and preliminary code (10%)
+     * Definition of all constructors and preliminary code (10%)
+     * List all methods (i.e., setup(), step(), moveAgents(), infectAgents()) and preliminary code for at least 50% of methods (10%)
+     * Preliminary code of your step method (10%)
+     * Quality of the comments so that your code is easy to follow and the steps for future work and where they will be implemented be in your code is evident (10%)
+ * Markdown comments at the bottom of your notebook (10%)
+    * Overview of the results you hope present (5%)
+    * Hypotheses about what results you will see in the future (5%)
+
+You can find a sample midterm from last year's class [here](https://github.com/beccakr/CSCS530/blob/881e9cddd9bd43afe8be2eb504029a719389b3c5/.ipynb_checkpoints/Emerald%20Ash%20Borer%20ABM-checkpoint.ipynb).
