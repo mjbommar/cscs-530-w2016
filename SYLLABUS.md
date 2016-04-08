@@ -65,3 +65,28 @@ Grading will be based primarily on a research project (80%); for masters and Ph.
     * Hypotheses about what results you will see in the future (5%)
 
 You can find a sample midterm from last year's class [here](https://github.com/beccakr/CSCS530/blob/881e9cddd9bd43afe8be2eb504029a719389b3c5/.ipynb_checkpoints/Emerald%20Ash%20Borer%20ABM-checkpoint.ipynb).
+
+
+
+## Final Rubric
+ * Markdown comments at the top of your notebook (10%)
+   * State the problem or question you are addressing in a single sentence.
+   * Identify why the problem that you are attempting to answer is amenable to an ABM, Networks, or other computational approach.
+   * Outline, at a high level, how you will use your model to evaluate your question and the various pieces of your model.  Identify a mechanism or process, how you will perform an experiment with its parameters, and what you will measure.
+   * Make sure to provide brief background or literature review on any extant research or models you're leaning on.
+ * Code Notebook (50%)
+   * Brief overview of your model (5%)
+     * Outline what your model is meant to do and how it will answer your question
+   * Code Notebook (45%)
+     * List of the sweep parameters that are important to answering your question in the model and the processes / mechanisms that they are involved in. List of the outcome measures that your parameter sweeps are going to affect (5%)
+     * Initialization of your parameters and variables (5%)
+     * Definition of all classes and code (5%)
+     * Definition of all constructors and code (5%)
+     * Definition of all model methods (i.e., setup(), step(), moveAgents(), infectAgents())  (20%)
+     * Quality of the comments so that your code is easy to follow and the steps for future work and where they will be implemented be in your code is evident (10%)
+ * Analysis of Model Results (40%)
+   * Description of output or outcome measure  (5%)
+   * Description and justification of analysis method used to test hypothesis (5%)
+   * Analysis of results and testing of hypothesis (20%)
+   * Summary paragraph, table, or visualization presenting conclusion on hypothesis (10%)
+ 
