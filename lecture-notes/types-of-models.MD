@@ -1,0 +1,68 @@
+-  Modeling vs. Simulation
+  - Liken to historical artistic pursuit of reality
+  - Different approaches over time to "capture" realism
+    -  Medium
+    -  Technique
+    -  Lighting
+  - Ability to abstract away details
+    -  Impressionism as to frictionless point mass
+-  Dimensions of Modeling
+  - Model as a
+    -  Analytic framework
+    -  Generative process
+  - Spatial vs. Aspatial
+    -  Simple topology, e.g., 1/2/3D grid, torus
+    -  Network
+    -  GIS
+  - Discrete vs. Continuous
+    -  Strongly tied to methodological tools
+  - Linear vs. Non-linear
+    -  Strongly tied to methodological tools
+  - Closed form vs.numerical
+    -  Two-body vs. three-body
+    -  Ulam, von Neumann, and neutron diffusion
+  - Homogeneity vs. heterogeneity
+  - Independence vs. dependence
+-  Modeling Methodologies
+  - Markov Chains
+  - Monte Carlo
+  - Agent/Individual-Based Models
+  - Equation-Based Models
+-  Conceptualizing the modeling process
+  - We are comfortable talking about models loosely, but how do we go from a plain-English description to an explicit, technical formulation?
+    -  Start by describing as we'd normally do so, e.g.:
+      -  "Households share information with other households."
+    -  Look for nouns and verbs.
+      -  " **Households** … other **households**."
+        - NOUN: SUBJECT, OBJECT
+        - Households are a type of agent.
+        - Some interaction space between them
+      -  " **share** information"
+        - VERB
+        - Households have the capacity to share
+      -  "share **information**"
+        - NOUN: OBJECT
+        - What they share is "information"
+        - Households must "have" some information
+    -  As we talk through these descriptions, we can start to identify elements of the conceptualization below.
+  - Model Framework
+    -  Model Parameters/Configuration
+      -  Initial conditions
+        - Spatial configuration
+        - Population/agents
+      -  Thresholds
+      -  Distributional assumptions/configurations
+    -  Actors/Agents
+      -  Types of Agents
+      -  Agents
+        - Properties
+        - Methods
+    -  Environment/Space
+      -  Types of Space
+        - "Physical", "Spatial"
+          -  Lines, grids, torii, 3D
+          -  Shapefiles and GIS models
+        - Network/interaction
+      -  Constrains/guides interactions between agents
+      -  Affects the "state" or "capability" of agents
+    -  
